@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="454df7f1-bcdf-4776-8ef0-26965b52548b" name="Default Changelist" comment="" />
+    <list default="true" id="454df7f1-bcdf-4776-8ef0-26965b52548b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,11 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.sfdx/sfdx-config.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.forceignore">
           <provider selected="true" editor-type-id="text-editor" />
@@ -67,12 +64,31 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2262" />
@@ -80,6 +96,7 @@
     <option name="width" value="1108" />
     <option name="height" value="628" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -200,15 +217,16 @@
       <option name="presentableId" value="Default" />
       <updated>1548247207926</updated>
       <workItem from="1548247209250" duration="1626000" />
-      <workItem from="1548249295755" duration="595000" />
+      <workItem from="1548249295755" duration="1144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2221000" />
+    <option name="totallyTimeSpent" value="2770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1974" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -260,16 +278,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml">
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml">
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml">
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml">
@@ -277,6 +295,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
